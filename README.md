@@ -1,2 +1,5 @@
-# Stadium Information Management System Django
+# Stadium Information Management System 
+
+## Developed using PHP
+
  
